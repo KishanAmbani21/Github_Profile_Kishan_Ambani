@@ -36,6 +36,8 @@ Welcome to My Profile &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) &nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=unity&theme=light)](https://skillicons.dev) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) &nbsp;
